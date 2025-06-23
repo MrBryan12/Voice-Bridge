@@ -135,7 +135,7 @@ Una vez instalado `ffmpeg`, verifica que esté funcionando correctamente:
 ```bash
 ffmpeg -version
 ```
-
+---
 3. Finalmente, ejecuta la API del proyecto con el siguiente comando:
 
 ```bash
