@@ -19,6 +19,13 @@ El sistema funciona capturando el audio desde el micrófono, transcribiéndolo y
 
 Esta herramienta es ideal para personas que participan en videollamadas en un idioma extranjero o desean ver contenido audiovisual con subtítulos traducidos en tiempo real, todo sin depender de plataformas externas.
 
+## Requisitos
+
+- Python 3.8 o superior
+- Navegador basado en Chromium
+- Conexión a internet
+- Acceso al micrófono
+- 
 ## Instalación y ejecución
 
 ### 1. Clonar el repositorio
@@ -159,11 +166,4 @@ Estas opciones permiten personalizar la visualización de los subtítulos según
 
 ---
 
-¡Con esto ya estarás listo para usar Voice Bridge en tus videollamadas o videos con traducción en tiempo real!
-
-### Requisitos
-
-- Python 3.8 o superior
-- Navegador basado en Chromium
-- Conexión a internet
-- Acceso al micrófono
+¡Con esto ya estarás listo para poder usar Voice Bridge en tus videollamadas o videos con traducción en tiempo real!
