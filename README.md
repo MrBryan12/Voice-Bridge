@@ -89,7 +89,6 @@ Una vez que la API esté corriendo correctamente, ya puedes comenzar a usar la e
 2. Haz clic en el **ícono de Voice Bridge** ubicado en la barra de extensiones de tu navegador (parte superior derecha).
 3. Se abrirá una interfaz flotante justo debajo del icono. Esta interfaz no ocupa toda la pantalla, lo que permite seguir viendo el contenido de la videollamada o video sin interrupciones.
 
-![Pantalla principal de la extensión](https://github.com/MrBryan12/Voice-Bridge/blob/c08911061aeb8a868aa77562f0e0125167855692/Imagenes/Voice%20Bridge%20-%20Interfaz.png)
 
 4. En la interfaz verás lo siguiente:
    - El **logotipo de Voice Bridge**.
@@ -97,6 +96,8 @@ Una vez que la API esté corriendo correctamente, ya puedes comenzar a usar la e
      - **Idioma original** (opciones: Español / Inglés)
      - **Idioma destino** (opciones: Español / Inglés)
    - Un botón **“Comenzar”**.
+
+![Pantalla principal de la extensión](https://github.com/MrBryan12/Voice-Bridge/blob/c08911061aeb8a868aa77562f0e0125167855692/Imagenes/Voice%20Bridge%20-%20Interfaz.png)
 
 5. Una vez configurados los idiomas, haz clic en **“Comenzar”**. En el centro de la pantalla aparecerá un mensaje indicando que el sistema ha comenzado a operar:
 
@@ -106,7 +107,7 @@ Traducción iniciada
 
 A partir de este punto, los subtítulos traducidos comenzarán a aparecer en tiempo real conforme se detecta y procesa el audio.
 
-![Mostrando los subtítulos superpuestos durante un video](Imagenes/Voice Bridge - Prueba.png)
+![Mostrando los subtítulos superpuestos durante un video](https://github.com/MrBryan12/Voice-Bridge/blob/7c8f40c8a3ab4426096a9882202a74d20669c999/Imagenes/Voice%20Bridge%20-%20Prueba.png)
 
 ---
 
@@ -114,7 +115,7 @@ A partir de este punto, los subtítulos traducidos comenzarán a aparecer en tie
 
 En la esquina superior izquierda de la interfaz de la extensión encontrarás un **ícono de engranaje ⚙️**, que permite acceder a la pantalla de configuración de subtítulos.
 
-![Pantalla de configuración de la extensión](Imagenes/Voice Bridge - Configuracion.png)
+![Pantalla de configuración de la extensión](https://github.com/MrBryan12/Voice-Bridge/blob/7c8f40c8a3ab4426096a9882202a74d20669c999/Imagenes/Voice%20Bridge%20-%20Configuracion.png)
 
 Esta sección incluye:
 
