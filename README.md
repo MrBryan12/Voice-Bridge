@@ -75,6 +75,7 @@ voice-bridge/
 ```bash
    pip install -r requirements.txt
 ```
+3a. Otra fomra de instalar las librerias de Python necesarias para el backend del proyecto, que son: `flask`, `whisper`, `torch`, `torch` y `deep-translator`, ejecutar el siguiente comando (En caso de usar Pip)
 
 4. Finalmente, ejecuta la API del proyecto con el siguiente comando:
 
