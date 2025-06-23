@@ -66,15 +66,14 @@ voice-bridge/
 6. Se agregara el icono de la extensión en el apartado de extensiones de tu navegador.
 
 
-### 4. Ejecutar el sistema
+### 4. Iniciar el backend del sistema
 
-1. Asegurate de tener Python instalado (versión 3.8 o superior).
-2. Navega a la carpeta 
+1. Navega a la carpeta 
 ```bash
    cd voice-bridge/API
 ```
 
-3. Una vez dentro de esta carpeta, ejecuta el siguiente comando que instalará todas las dependencias necesarias para ejecutar el proyecto:
+2. Una vez dentro de esta carpeta, ejecuta el siguiente comando que instalará todas las dependencias necesarias para ejecutar el proyecto:
 
 ```bash
    pip install -r requirements.txt
@@ -101,7 +100,7 @@ pip install flask torch deep-translator
 > Si usas el archivo `requirements.txt`, ya viene configurado con la fuente correcta para Whisper, por lo que no necesitas preocuparte por esta diferencia.
 
 
-4. Finalmente, ejecuta la API del proyecto con el siguiente comando:
+3. Finalmente, ejecuta la API del proyecto con el siguiente comando:
 
 ```bash
    python app.py
@@ -164,15 +163,7 @@ Estas opciones permiten personalizar la visualización de los subtítulos según
 
 ### Requisitos
 
-- Python 3.8+
+- Python 3.8 o superior
 - Navegador basado en Chromium
 - Conexión a internet
 - Acceso al micrófono
-
-
-### Archivos importantes
-
-- `main.py`: Captura y traduce el audio (Python)
-- `manifest.json`: Configuración de la extensión
-- `popup.html`, `background.js`, etc.: Funcionalidad de la extensión
- 
