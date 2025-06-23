@@ -13,8 +13,6 @@ Escuela Superior de Cómputo | Proyecto Final | 6BM1 | Ingeniería en Inteligenc
 
 ## Descripción del proyecto
 
-**Voice Bridge** es una extensión para navegador que permite la traducción en tiempo real del audio en videollamadas, generando subtítulos en la pantalla...…….
-
 **Voice Bridge** es una extensión para navegadores basados en Chromium que permite traducir en tiempo real el audio de videollamadas o videos, generando subtítulos directamente en la pantalla del usuario, a través de un sistema que combina reconocimiento de voz, traducción automática y una interfaz intuitiva, Voice Bridge facilita la comunicación multilingüe sin interrumpir la experiencia visual.
 
 El sistema funciona capturando el audio desde el micrófono, transcribiéndolo y traduciendo el contenido al idioma deseado, luego, los subtítulos se muestran sobre el contenido del navegador mediante la propia extensión.
