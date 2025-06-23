@@ -71,7 +71,7 @@ voice-bridge/
 ```bash
    cd voice-bridge/API
 ```
-3. Una vez dentro de esta carpeta, ejecutar el siguiente comando que instalará todas las dependencias necesarias para ejecutar el proyecto:
+3. Una vez dentro de esta carpeta, ejecuta el siguiente comando que instalará todas las dependencias necesarias para ejecutar el proyecto:
 ```bash
    pip install -r requirements.txt
 ```
