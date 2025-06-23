@@ -71,11 +71,33 @@ voice-bridge/
 ```bash
    cd voice-bridge/API
 ```
+
 3. Una vez dentro de esta carpeta, ejecuta el siguiente comando que instalará todas las dependencias necesarias para ejecutar el proyecto:
+
 ```bash
    pip install -r requirements.txt
 ```
-3a. Otra fomra de instalar las librerias de Python necesarias para el backend del proyecto, que son: `flask`, `whisper`, `torch`, `torch` y `deep-translator`, ejecutar el siguiente comando (En caso de usar Pip)
+
+> **Nota:** En caso de que prefieras instalar las dependencias manualmente con `pip`, los paquetes necesarios para el backend son:
+- `flask`
+- `torch`
+- `whisper`
+- `deep-translator`
+
+Sin embargo, la librería **Whisper** no puede instalarse directamente desde PyPI, debe instalarse desde su repositorio oficial en GitHub con el siguiente comando:
+
+```bash
+pip install git+https://github.com/openai/whisper.git
+```
+
+Y para las demás:
+
+```bash
+pip install flask torch deep-translator
+```
+
+> Si usas el archivo `requirements.txt`, ya viene configurado con la fuente correcta para Whisper, por lo que no necesitas preocuparte por esta diferencia.
+
 
 4. Finalmente, ejecuta la API del proyecto con el siguiente comando:
 
