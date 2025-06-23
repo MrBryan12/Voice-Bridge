@@ -89,7 +89,7 @@ Una vez que la API esté corriendo correctamente, ya puedes comenzar a usar la e
 2. Haz clic en el **ícono de Voice Bridge** ubicado en la barra de extensiones de tu navegador (parte superior derecha).
 3. Se abrirá una interfaz flotante justo debajo del icono. Esta interfaz no ocupa toda la pantalla, lo que permite seguir viendo el contenido de la videollamada o video sin interrupciones.
 
-![Pantalla principal de la extensión](Imagenes/Voice Bridge - Interfaz.png)
+![Pantalla principal de la extensión]([Imagenes/Voice Bridge - Interfaz.png](https://github.com/MrBryan12/Voice-Bridge/blob/c08911061aeb8a868aa77562f0e0125167855692/Imagenes/Voice%20Bridge%20-%20Interfaz.png))
 
 4. En la interfaz verás lo siguiente:
    - El **logotipo de Voice Bridge**.
