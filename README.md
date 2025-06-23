@@ -25,7 +25,7 @@ Esta herramienta es ideal para personas que participan en videollamadas en un id
 - Navegador basado en Chromium
 - Conexión a internet
 - Acceso al micrófono
-- 
+
 ## Instalación y ejecución
 
 ### 1. Clonar el repositorio
