@@ -105,8 +105,9 @@ pip install flask torch deep-translator
 ```
 
 > Si usas el archivo `requirements.txt`, ya viene configurado con la fuente correcta para Whisper, por lo que no necesitas preocuparte por esta diferencia.
+---
 
-### **Nota importante:** 
+### **Nota importante** 
 La librería `whisper`, utilizada para la transcripción automática, depende de **`ffmpeg`**, una herramienta externa necesaria para procesar el audio. Asegúrate de tenerla instalada antes de usar el sistema.
 
 #### Instalación de `ffmpeg`
