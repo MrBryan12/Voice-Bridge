@@ -106,9 +106,9 @@ pip install flask torch deep-translator
 
 > Si usas el archivo `requirements.txt`, ya viene configurado con la fuente correcta para Whisper, por lo que no necesitas preocuparte por esta diferencia.
 
-> 📝 **Nota importante:** La librería `whisper`, utilizada para la transcripción automática, depende de **`ffmpeg`**, una herramienta externa necesaria para procesar el audio. Asegúrate de tenerla instalada antes de usar el sistema.
+**Nota importante:** La librería `whisper`, utilizada para la transcripción automática, depende de **`ffmpeg`**, una herramienta externa necesaria para procesar el audio. Asegúrate de tenerla instalada antes de usar el sistema.
 
-#### ✅ Instalación de `ffmpeg`
+#### Instalación de `ffmpeg`
 
 - **Windows**: Puedes instalarlo desde [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html) o usando Chocolatey:
 
@@ -133,17 +133,6 @@ Una vez instalado `ffmpeg`, verifica que esté funcionando correctamente:
 ```bash
 ffmpeg -version
 ```
-
-#### Instalación manual de librerías (opcional)
-
-Si prefieres instalar las librerías una por una con `pip`, ejecuta lo siguiente:
-
-```bash
-pip install flask torch deep-translator
-pip install git+https://github.com/openai/whisper.git
-```
-
-> Si usas el archivo `requirements.txt`, ya viene configurado con la fuente correcta para `whisper`, y puedes omitir la instalación manual.
 
 3. Finalmente, ejecuta la API del proyecto con el siguiente comando:
 
