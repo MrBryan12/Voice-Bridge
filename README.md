@@ -61,7 +61,7 @@ voice-bridge/
 3. Activa el **modo desarrollador** (esquina superior derecha).
 4. Haz clic en **“Cargar extensión sin empaquetar”**.
 5. Selecciona la carpeta `Extension/` dentro del repositorio clonado.
-6. Se agregara el icono de la extensión en el apartado de extensiones.
+6. Se agregara el icono de la extensión en el apartado de extensiones de tu navegador.
 
 
 ### 4. Ejecutar el sistema
