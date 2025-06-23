@@ -51,6 +51,8 @@ voice-bridge/
 ├── API/              # Carpeta con el backend de la API
 │   └── app.py        # Script principal que maneja la API
 │
+├── requirements.txt  # Archivo que lista las dependencias del proyecto
+│
 └── README.md         # Archivo con la documentación del proyecto
 ```
 
