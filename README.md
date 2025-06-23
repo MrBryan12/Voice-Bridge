@@ -31,7 +31,7 @@ Para ejecutar el proyecto, primero es necesario clonar el repositorio usando Git
 
 ### 2. Estructura del proyecto
 
-Después de clonar el repositorio, verás una carpeta principal que contiene otras dos carpetas:
+Después de clonar el repositorio, verás una carpeta principal que contiene otras dos carpetas junto con el archivo "requirements.txt" y "README.md":
 
 ```bash
 voice-bridge/
