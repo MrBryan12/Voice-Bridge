@@ -199,4 +199,4 @@ Estas opciones permiten personalizar la visualización de los subtítulos según
 
 # Video de funcionamiento de Voice Bridge
 
-![Mostrando los subtítulos superpuestos durante un video](https://drive.google.com/file/d/1WhTTEQwGFV3fSBR15soSPspdo412aD4l/view?usp=drive_link)
+[🎥 Ver demostración del sistema en Google Drive](https://drive.google.com/file/d/1WhTTEQwGFV3fSBR15soSPspdo412aD4l/view?usp=drive_link)
