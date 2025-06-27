@@ -196,3 +196,7 @@ Estas opciones permiten personalizar la visualización de los subtítulos según
 ---
 
 ¡Con esto ya estarás listo para poder usar Voice Bridge en tus videollamadas o videos con traducción en tiempo real!
+
+# Video de funcionamiento de Voice Bridge
+
+![Mostrando los subtítulos superpuestos durante un video](https://drive.google.com/file/d/1WhTTEQwGFV3fSBR15soSPspdo412aD4l/view?usp=drive_link)
